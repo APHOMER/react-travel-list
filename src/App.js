@@ -11,13 +11,13 @@ export default function App() {
 }
 
 function Logo() {
-  return <h1> Far from Home</h1>;
+  return <h1>❤️Far from Home💕</h1>;
 }
 
 function Form() {
   return (
     <div className="add-form">
-      <h3>WHat do you want your master to give you ?</h3>
+      <h3>WHat do you want your master to give you👌?</h3>
     </div>
   );
 }
@@ -33,4 +33,7 @@ function Stats() {
     </footer>
   );
 }
+
+
+
 
