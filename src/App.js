@@ -6,7 +6,6 @@ const initialItems = [
 ];
 
 
-
 export default function App() {
   return (
     <div className="app">
@@ -70,7 +69,6 @@ function Stats() {
     </footer>
   );
 }
-
 
 
 
