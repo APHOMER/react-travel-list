@@ -73,7 +73,8 @@ input {
 }
 
 .list {
-  background-color: #5a3e2b;
+  /* background-color: #5a3e2b; */
+  background-color: green;
   color: #ffebb3;
   padding: 4rem 0;
 
