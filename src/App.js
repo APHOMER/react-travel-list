@@ -1,3 +1,4 @@
+//  PDA => Is an account without Private Key.
 
 const initialItems = [
   { id: 1, description: "Passports", quantity: 2, packed: false },
