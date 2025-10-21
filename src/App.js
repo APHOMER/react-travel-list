@@ -11,10 +11,10 @@ const initialItems = [
 export default function App() {
   return (
     <div className="app">
-      <Logo />
+      {/* <Logo />
       <Form />
       <PackingList />
-      <Stats />
+      <Stats /> */}
     </div>
   );
 }
