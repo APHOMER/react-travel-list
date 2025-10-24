@@ -7,7 +7,7 @@ const initialItems = [
 ];
 
 
-
+// GOD SHOW ME THE REAL HELPERS
 
 
 export default function App() {
