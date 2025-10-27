@@ -8,7 +8,7 @@ const initialItems = [
 
 
 // GOD SHOW ME THE REAL HELPERS
-GOD PLEASE HELPER ME.
+// GOD PLEASE HELPER ME.
 
 
 export default function App() {
